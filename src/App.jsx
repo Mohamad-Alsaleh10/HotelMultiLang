@@ -27,7 +27,7 @@ function App() {
   };
   return (
     <div>
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="HotelMultiLang">
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/room/:id" element={<RoomDetails />} />
