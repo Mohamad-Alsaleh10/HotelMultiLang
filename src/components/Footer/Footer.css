@@ -1,0 +1,42 @@
+.footer {
+    background-color: #2196F3;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+
+
+  
+.footer-content {
+    flex: 1;
+    min-width: 250px;
+    margin: 10px 0;
+  }
+  
+  .footer-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .footer-phone {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .social-link img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .footer-rights {
+    margin-top: 15px;
+    font-size: 14px;
+    opacity: 0.8;
+  }
